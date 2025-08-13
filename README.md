@@ -1,4 +1,4 @@
-## 📌 E-Commerce_Analysis
+## 📌 E-Commerce_Analysis_SQL_Project
 This project focuses on an e-commerce company facing challenges with tables i.e., customers, products, orders, order details, e-commerce company. Through a comprehensive data analysis approach using SQL, this case study aims to address key business problems and insights such as market segment analysis, high value products, sales trend, customer acquisition.
 
 ## 📂 Datasets Information
