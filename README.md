@@ -11,7 +11,7 @@ The analysis for this case study is based on the following three datasets:
 ## 🎯Business Problem Addressed
 The core business problem is the need to leverage extensive company databases to extract actionable insights. This analysis will be used to inform various departments and drive business strategies forward, ultimately aiming to optimize operations, enhance customer satisfaction, and boost sales performance.
 
-## Specific Business Verticals: 
+## 📊Specific Business Verticals: 
 The analysis will directly address the following problems within key business areas:
 1. Customer Insights: The problem of not fully understanding the customer base, which hinders the ability to tailor effective marketing strategies.
 2. Product Analysis: The challenge of evaluating product performance to make informed decisions about stock levels and sales strategies.
