@@ -31,7 +31,7 @@ Tables Used:
 1.	JOIN operations for combining relational tables.
 2.	GROUP BY and HAVING for aggregated insights.
 3.	SUM, COUNT for total revenue, market segments.
-4.	Used the LAG() function to calculate the month-on-month percentage change in total sales
+4.	LAG() function to calculate the month-on-month percentage change in total sales
 
 ## Business KPI Modeling:
 Designed queries to track key metrics like:
