@@ -8,8 +8,15 @@ The analysis for this case study is based on the following three datasets:
 3.	Orders Dataset – Stores order information including order_id, order_date, customer_id, and total_amount.
 4.	OrderDetails Dataset – Provides details of each order with order_id, product_id, quantity, and price_per_unit.
 
-## 🎯 Business Problems Addressed
+## 🎯Business Problem Addressed
+The core business problem is the need to leverage extensive company databases to extract actionable insights. This analysis will be used to inform various departments and drive business strategies forward, ultimately aiming to optimize operations, enhance customer satisfaction, and boost sales performance.
 
+## Specific Business Verticals: 
+The analysis will directly address the following problems within key business areas:
+1. Customer Insights: The problem of not fully understanding the customer base, which hinders the ability to tailor effective marketing strategies.
+2. Product Analysis: The challenge of evaluating product performance to make informed decisions about stock levels and sales strategies.
+3. Sales Optimization: The need to analyze sales data to identify trends, opportunities, and areas for improvement to increase sales.
+4. Inventory Management: The problem of managing stock levels effectively to ensure product availability for customers while also minimizing excess inventory costs.
 
 ## 🛠️ Methodology
 Data Import: All CSV files were imported into MySQL Workbench.
@@ -20,7 +27,6 @@ Tables Used:
 4.	Order_details
 5.	E-commerce Company
 
-   
 ## SQL Analysis:
 1.	JOIN operations for combining relational tables.
 2.	GROUP BY and HAVING for aggregated insights.
