@@ -33,7 +33,7 @@ Tables Used:
 3.	SUM, COUNT for total revenue, market segments.
 4.	LAG() function to calculate the month-on-month percentage change in total sales
 
- Business KPI Modeling:
+ Business KPI Modelling:
 Designed queries to track key metrics like:
 1.	Average Order Value
 2.	Unique Customers
@@ -42,6 +42,7 @@ Designed queries to track key metrics like:
 
 ## 🔍 Key Insights
 Here are some actionable insights derived from the SQL analysis:
+
 1.	Market Segmentation – Identified the top 3 cities with the highest customer base.
 2.	Customer Engagement – Classified customers into:
 One-time Buyers (1 order)
