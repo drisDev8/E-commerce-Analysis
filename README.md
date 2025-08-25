@@ -1,24 +1,24 @@
-## 📌 E-Commerce_Analysis_SQL_Project
+# 📌 E-Commerce_Analysis_SQL_Project
 This Project focuses on an e-commerce company facing challenges with tables i.e., customers, products, orders, order details, e-commerce company. Through a comprehensive data analysis approach using SQL, this case study aims to address key business problems and insights such as market segment analysis, high value products, sales trend, customer acquisition.
 
-## 📂 Datasets Information
+# 📂 Datasets Information
 The analysis for this Project is based on the following three datasets:
 1.	Customers Dataset – Contains customer information including customer_id, name, and location.
 2.	Products Dataset – Includes product details such as product_id, name, category, and price.
 3.	Orders Dataset – Stores order information including order_id, order_date, customer_id, and total_amount.
 4.	OrderDetails Dataset – Provides details of each order with order_id, product_id, quantity, and price_per_unit.
 
-## 🎯Business Problem Addressed
+# 🎯Business Problem Addressed
 The core business problem is the need to leverage extensive company databases to extract actionable insights. This analysis will be used to inform various departments and drive business strategies forward, ultimately aiming to optimize operations, enhance customer satisfaction, and boost sales performance.
 
-## 📊Specific Business Verticals: 
+# 📊Specific Business Verticals
 The analysis will directly address the following problems within key business areas:
 1. Customer Insights: The problem of not fully understanding the customer base, which hinders the ability to tailor effective marketing strategies.
 2. Product Analysis: The challenge of evaluating product performance to make informed decisions about stock levels and sales strategies.
 3. Sales Optimization: The need to analyze sales data to identify trends, opportunities, and areas for improvement to increase sales.
 4. Inventory Management: The problem of managing stock levels effectively to ensure product availability for customers while also minimizing excess inventory costs.
 
-## 🛠️ Methodology
+# 🛠️ Methodology
 Data Import: All CSV files were imported into MySQL Workbench.
 Tables Used:
 1.	Customers
@@ -33,14 +33,14 @@ Tables Used:
 3.	SUM, COUNT for total revenue, market segments.
 4.	LAG() function to calculate the month-on-month percentage change in total sales
 
- Business KPI Modelling:
+## Business KPI Modelling:
 Designed queries to track key metrics like:
 1.	Average Order Value
 2.	Unique Customers
 3.	Total Sales
 4.	Total Revenue
 
-## 🔍 Key Insights
+# 🔍 Key Insights
 Here are some actionable insights derived from the SQL analysis:
 
 1.	Market Segmentation – Identified the top 3 cities with the highest customer base.
@@ -57,12 +57,12 @@ Regular Customers (>4 orders)
 9.	Customer Acquisition Trend – Measured month-on-month growth in the customer base.
 10.	Peak Sales Periods – Determined high-demand months to optimize stock, marketing, and staffing.
 
-## 🧠 Skills Gained
+# 🧠 Skills Gained
 Through this case study, I gained hands-on experience in:
 1.	Developed practical experience in writing SQL queries to solve real-world business problems.
 2.	Learned how to translate key performance indicators (KPIs) into structured database logic.
 3.	Strengthened ability to join and manage multiple relational tables effectively.
 4.	Built a data-driven, business-oriented problem-solving approach.
 
-## 👤 About Me
+# 👤 About Me
 LinkedIn: https://www.linkedin.com/in/dristi-handique/
